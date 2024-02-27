@@ -1,0 +1,16 @@
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\bin\Debug\net8.0-windows\Q5Validation.exe
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\bin\Debug\net8.0-windows\Q5Validation.deps.json
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\bin\Debug\net8.0-windows\Q5Validation.runtimeconfig.json
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\bin\Debug\net8.0-windows\Q5Validation.dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\bin\Debug\net8.0-windows\Q5Validation.pdb
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.Form1.resources
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.csproj.GenerateResource.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.AssemblyInfoInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.AssemblyInfo.cs
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.csproj.CoreCompileInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\refint\Q5Validation.dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.pdb
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\Q5Validation.genruntimeconfig.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q5Validation\Q5Validation\obj\Debug\net8.0-windows\ref\Q5Validation.dll

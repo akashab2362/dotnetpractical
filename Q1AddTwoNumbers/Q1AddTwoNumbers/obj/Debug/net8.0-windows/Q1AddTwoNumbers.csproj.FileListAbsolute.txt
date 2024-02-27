@@ -1,0 +1,16 @@
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\bin\Debug\net8.0-windows\Q1AddTwoNumbers.exe
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\bin\Debug\net8.0-windows\Q1AddTwoNumbers.deps.json
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\bin\Debug\net8.0-windows\Q1AddTwoNumbers.runtimeconfig.json
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\bin\Debug\net8.0-windows\Q1AddTwoNumbers.dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\bin\Debug\net8.0-windows\Q1AddTwoNumbers.pdb
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.Form1.resources
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.csproj.GenerateResource.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.AssemblyInfoInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.AssemblyInfo.cs
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.csproj.CoreCompileInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\refint\Q1AddTwoNumbers.dll
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.pdb
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\Q1AddTwoNumbers.genruntimeconfig.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q1AddTwoNumbers\Q1AddTwoNumbers\obj\Debug\net8.0-windows\ref\Q1AddTwoNumbers.dll
