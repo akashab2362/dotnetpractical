@@ -1,0 +1,8 @@
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9_.Form1.resources
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9_.Properties.Resources.resources
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9(.csproj.GenerateResource.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9(.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9(.AssemblyInfoInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9(.AssemblyInfo.cs
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9(.csproj.CoreCompileInputs.cache
+D:\MSC Computer Science\Semester 2\DOT NET Practicals\Assignment based on Windows Form Application\Q9(\Q9(\obj\Debug\net8.0-windows\Q9(.sourcelink.json
